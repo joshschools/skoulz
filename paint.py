@@ -1,6 +1,6 @@
 !#python3
 
-sqft = int(input('Input paint coverage in sq ft per gallon:' ))
+sqft = int(input('Input paint coverage in sq ft per gallon: ' ))
 wall = int(input('Input number of walls: '))
 window = int(input('Input number of windows: '))
 door = int(input('Input number of doors: '))
